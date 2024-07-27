@@ -4,6 +4,7 @@ The Dental Clinic Management Project is a comprehensive web application designed
 
 
 Technologies Used:
+
 HTML: Provides the structural framework for the web pages, ensuring content is organized and accessible.
 
 CSS: Adds styling to the HTML elements, creating a visually appealing and user-friendly interface.
@@ -13,7 +14,7 @@ Django: A high-level Python web framework that handles the backend functionality
 
 
 
-Key Features
+Key Features:
 
 Patient Management
 
@@ -23,13 +24,13 @@ Appointment Scheduling: Allows patients to book, reschedule, or cancel appointme
 
 
 
-Staff Management
+Staff Management:
 
 Staff Scheduling: Enables efficient scheduling of dentist shifts and availability, ensuring optimal resource utilization.
 
 
 
-Appointment and Treatment Management
+Appointment and Treatment Management:
 
 Appointment Tracking: Keeps track of all upcoming, and completed appointments with detailed records.
 
@@ -37,19 +38,19 @@ Treatment Records: Maintains comprehensive treatment history for each patient, i
 
 
 
-Billing and Payments
+Billing and Payments:
 
 Payment Processing: Integrates with payment gateways to facilitate secure and convenient payment options for patients.
 
 
 
-User Interface
+User Interface:
 
 The project features a responsive and intuitive user interface designed using HTML and CSS. The interface ensures a smooth navigation experience across different devices, including desktops, tablets, and mobile phones.
 
 
 
-Benefits
+Benefits:
 
 Efficiency: Automates and streamlines various administrative tasks, reducing the workload on clinic staff.
 
