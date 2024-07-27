@@ -1,9 +1,9 @@
-Overview
+Overview:
+
 The Dental Clinic Management Project is a comprehensive web application designed to streamline and enhance the administrative and operational aspects of a dental clinic. This project leverages the robust capabilities of HTML, CSS, and Django to provide a seamless user experience for both clinic staff and patients.
 
 
 Technologies Used:
-
 HTML: Provides the structural framework for the web pages, ensuring content is organized and accessible.
 
 CSS: Adds styling to the HTML elements, creating a visually appealing and user-friendly interface.
